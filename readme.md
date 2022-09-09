@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on on a Crypto Wallet to showcase my React skills.  
+- 🔭 I’m currently doing #100daysOfWeb3 to maintain consistency.  
 - 📫 How to reach me: royvardhan.official@gmail OR @thefiatbubble 
-- ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer. I can help with marketing needs as well.  
+- ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer. Every bit of help matters. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royvardhan)  
