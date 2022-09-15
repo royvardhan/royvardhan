@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently doing #100daysOfWeb3 to maintain consistency.  
-- 📫 How to reach me: royvardhan.official@gmail OR @thefiatbubble 
+- 📫 Reach me at royvardhan.official@gmail OR @thefiatbubble 
 - ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer. Every bit of help matters. 
 
 
