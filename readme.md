@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Harsh Vardhan Roy
 #### Web3 Developer
 
-##### Skills: HTML / CSS / TAILWIND CSS / JS / REACT.JS / SOLIDITY / HARDHAT / ETHERS.JS / CHAINLINK / IPFS
+##### Skills: HTML / CSS / TAILWIND CSS / JS / REACT.JS / SOLIDITY / HARDHAT / ETHERS.JS / CHAINLINK / IPFS / THEGRAPH
 
 
 
