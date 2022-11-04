@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently doing #100daysOfWeb3 to maintain consistency.  
-- 📫 Reach me at royvardhan.official@gmail OR @thefiatbubble 
+- 🔭 I’m currently building a Yield Protocol as a portfolio project.  
+- 📫 Reach me at royvardhan.official@gmail OR twitter.com/thefiatbubble
 - ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer. Every bit of help matters. 
 
 
@@ -20,5 +20,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/royvardhan)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=royvardhan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=royvardhan)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royvardhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
