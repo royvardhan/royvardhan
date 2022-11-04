@@ -18,9 +18,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=royvardhan&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/royvardhan)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=royvardhan)
+![GitHub metrics](https://metrics.lecoq.io/royvardhan&theme=dark)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royvardhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
