@@ -5,10 +5,9 @@
 
 
 
-- 🔭 I’m currently building a Yield Protocol as a portfolio project.  
+- 🔭 Working on DeFi Protocols.   
 - 📫 Reach me at royvardhan.official@gmail OR twitter.com/thefiatbubble
-- ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer. Every bit of help matters. 
-
+- ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/royvardhan)  
 
