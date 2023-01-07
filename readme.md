@@ -5,9 +5,8 @@
 
 
 
-- 🔭 Working on DeFi Protocols.   
+- 🔭 Working in DeFi.   
 - 📫 Reach me at royvardhan.official@gmail OR twitter.com/thefiatbubble
-- ⚡ Fun fact: I transitioned from a Marketing guy to being a Developer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royvardhan)](https://github.com/anuraghazra/github-readme-stats)
