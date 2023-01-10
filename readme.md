@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Harsh Vardhan Roy
-#### Web3 Developer
+#### Blockchain Developer
 
 ##### Skills: JAVASCRIPT / TYPESCRIPT / REACT.JS / TAILWIND CSS /  SOLIDITY / HARDHAT / FOUNDRY / ETHERS.JS / CHAINLINK / IPFS / THEGRAPH / NODEJS / EXPRESSJS
 
