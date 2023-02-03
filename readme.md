@@ -9,5 +9,3 @@
 - 📫 Reach me at royvardhan.official@gmail OR twitter.com/thefiatbubble
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=royvardhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
