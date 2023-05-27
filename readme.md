@@ -9,8 +9,8 @@
 ### Work: 
 
 ##### [Liquid Mining: Diamonds, Multi-Facet Proxy Smart Contracts](https://github.com/VaporFi/liquid-mining)
-- I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Re-stake, Boost, and Unlock. Each facet has a dedicated smart contract, connected with the diamond. 
-- I authored the Claim, Restake, and Withdraw contracts (facets). I also set up extensive tests in Foundry, created the diamonds, connected facets to it, and made the test coverage to 90%+.
+* I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Re-stake, Boost, and Unlock. Each facet has a dedicated smart contract, connected with the diamond. 
+* I authored the Claim, Restake, and Withdraw contracts (facets). I also set up extensive tests in Foundry, created the diamonds, connected facets to it, and made the test coverage to 90%+.
 
 
 ##### [Genesis Staking: An Event Based Smart Contract](https://snowtrace.io/address/0xd21fe537c97054f40890f012955a536d80d1bf00)
