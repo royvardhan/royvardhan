@@ -6,7 +6,7 @@
 - 🔭 Working in DeFi.   
 - 📫 Reach me at [royvardhan.official@gmail](mailto:royvardhan.official@gmail.com) OR [twitter.com/thefiatbubble](https://twitter.com/thefiatbubble)
 
-### Work: 
+## Work
 
 ##### [Liquid Mining: Diamonds, Multi-Facet Proxy Smart Contracts](https://github.com/VaporFi/liquid-mining)
 * I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Re-stake, Boost, and Unlock. Each facet has a dedicated smart contract, connected with the diamond. 
@@ -32,7 +32,7 @@
  - A voting Dapp that accepts proposals for NFTs and allows NFT holders to vote.
  - A vote's weight depends upon the number of NFTs the voter holds.
 
-## Open Source Contributions:
+## Open Source Contributions
 
 ##### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/commit/a62f4a4bd0c241455997a7882f42a1b5cc664f51)
 
