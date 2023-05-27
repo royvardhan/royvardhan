@@ -8,29 +8,29 @@
 
 ### Work: 
 
-#### [Liquid Mining: Diamonds, Multi-Facet Proxy Smart Contracts](https://github.com/VaporFi/liquid-mining)
+##### [Liquid Mining: Diamonds, Multi-Facet Proxy Smart Contracts](https://github.com/VaporFi/liquid-mining)
 - I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Re-stake, Boost, and Unlock. Each facet has a dedicated smart contract, connected with the diamond. 
 - I authored the Claim, Restake, and Withdraw contracts (facets). I also set up extensive tests in Foundry, created the diamonds, connected facets to it, and made the test coverage to 90%+.
 
 
-#### [Genesis Staking: An Event Based Smart Contract](https://snowtrace.io/address/0xd21fe537c97054f40890f012955a536d80d1bf00)
+##### [Genesis Staking: An Event Based Smart Contract](https://snowtrace.io/address/0xd21fe537c97054f40890f012955a536d80d1bf00)
 - I contributed to this smart contract and it has handled $312,744 in total value so far and was built for a special event where it accepted a live token (with deep liquidity pools) and emitted a new token based on TVL at the end of the staking event.
 - A total of 2729 unique wallets participated in this event.
 
-#### [Genesis Staking Subgraph](https://github.com/royvardhan/genesis-staking-subgraph)
+##### [Genesis Staking Subgraph](https://github.com/royvardhan/genesis-staking-subgraph)
 - A subgraph that tracks all the deposits and claims in the vault.
 - The subgraph also queries the liquidity pools of the deposit token and calculates the real-time USD price of the deposit token to determine the real-time price of the claim token.  
 [Deployment Here](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
 
-#### [VAPORDEX](https://app.vapordex.io/swap)
+##### [VAPORDEX](https://app.vapordex.io/swap)
 Worked on adding new features/pages to the NEXT.JS frontend. 
 Integrated GraphQL APIs to fetch server-side props and show them on the frontend.
 Worked with Vercel edge configs to limit features to users before the release date.
 Integrated smart contracts with pages.
 
-### Open Source Contributions:
+## Open Source Contributions:
 
-#### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/commit/a62f4a4bd0c241455997a7882f42a1b5cc664f51)
+##### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/commit/a62f4a4bd0c241455997a7882f42a1b5cc664f51)
 
 ## Certifications
 
