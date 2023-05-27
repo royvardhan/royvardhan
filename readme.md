@@ -23,10 +23,14 @@
 [Deployment Here](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
 
 ##### [VAPORDEX](https://app.vapordex.io/swap)
-Worked on adding new features/pages to the NEXT.JS frontend. 
-Integrated GraphQL APIs to fetch server-side props and show them on the frontend.
-Worked with Vercel edge configs to limit features to users before the release date.
-Integrated smart contracts with pages.
+ - Worked on adding new features/pages to the NEXT.JS frontend. 
+ - Integrated GraphQL APIs to fetch server-side props and show them on the frontend.
+ - Worked with Vercel edge configs to limit features to users before the release date.
+ - Integrated smart contracts with pages.
+
+##### [Quadratic Voting ERC721](https://github.com/royvardhan/quadraticVotingERC721/blob/main/contracts/QuadraticVotingERC721.sol)
+ - A voting Dapp that accepts proposals for NFTs and allows NFT holders to vote.
+ - A vote's weight depends upon the number of NFTs the voter holds.
 
 ## Open Source Contributions:
 
