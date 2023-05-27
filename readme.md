@@ -32,7 +32,7 @@ Integrated smart contracts with pages.
 
 #### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/commit/a62f4a4bd0c241455997a7882f42a1b5cc664f51)
 
-#### Certifications
+## Certifications
 
 Overmind - Won Prizes in Competitive Coding Quests for Move Language
  - Proof Of Learning (NFT) - Coming soon!
