@@ -34,7 +34,8 @@
 
 ## Open Source Contributions
 
-##### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/commit/a62f4a4bd0c241455997a7882f42a1b5cc664f51)
+##### [Mokshya Protocol](https://github.com/mokshyaprotocol/aptos-token-vesting/pull/4)
+##### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/pull/1)
 
 ## Certifications
 
