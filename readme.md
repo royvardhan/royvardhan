@@ -15,8 +15,8 @@
  - Integrated smart contracts with pages.
 
 ##### [Liquid Mining: Over 933 Participants, $90k TVL First Week](https://github.com/VaporFi/liquid-mining)
-* I contributed to this ERC-2535 implementation that has multiple facets such as Deposit,Withdraw, Claim, Boost and Unlock. Each facet has a dedicated smart contract, connectedwith the diamond. I authored the Claim, and Withdraw contracts(facets).
-* I also set up extensive tests in Foundry, created the diamonds, connected facets to it andmade the test coverage to 90%+.
+* I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Boost and Unlock. Each facet has a dedicated smart contract, connected with the diamond. I authored the Claim, and Withdraw contracts(facets).
+* I also set up extensive tests in Foundry, created the diamonds, connected facets to it and made the test coverage to 90%+.
 
 
 ##### [Genesis Staking: $312,744 TVL](https://snowtrace.io/address/0xd21fe537c97054f40890f012955a536d80d1bf00)
@@ -28,11 +28,10 @@
 - The subgraph also queries the liquidity pools of the deposit token and calculates the real-time USD price of the deposit token to determine the real-time price of the claim token.  
 [Deployment Here](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
 
-##### [Emissions Manager: Auto Emits VAPE Token to Liquid Mining SC]
+##### [Emissions Manager: Auto Emits VAPE Token to Liquid Mining SC](https://snowtrace.io/address/0x9f0EDB45c2DC0f56bA7C48368c26426f366Bb788)
 - A smart contract that works with other contracts to mint new tokens automatically based
 on a certain set of rules.
 - An admin smart contract for managing mining rewards inside Liquid Mining.
-[Deployment Here](https://snowtrace.io/address/0x9f0EDB45c2DC0f56bA7C48368c26426f366Bb788)
 
 
 
