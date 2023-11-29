@@ -24,9 +24,9 @@
 * I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Boost and Unlock. Each facet has a dedicated smart contract, connected with the diamond. I authored the Claim, and Withdraw contracts(facets).
 * I also set up extensive tests in Foundry, created the diamonds, connected facets to it and made the test coverage to 90%+.
 
-##### [Liquid Mining Subgraph](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
+##### [Liquid Mining Subgraph](https://thegraph.com/hosted-service/subgraph/vaporfi/liquid-mining)
 * I designed it to provide comprehensive data on the activities within the Liquid Mining smart contract ecosystem. It facilitates queries to retrieve detailed information about user interactions, seasonal data, fee collections, and mining pass purchases.
-[Deployment Here](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
+[Deployment Here](https://thegraph.com/hosted-service/subgraph/vaporfi/liquid-mining)
 
 
 ##### [Genesis Staking: $312,744 TVL](https://snowtrace.io/address/0xd21fe537c97054f40890f012955a536d80d1bf00)
