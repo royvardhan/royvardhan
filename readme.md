@@ -14,11 +14,17 @@
  - Worked with Vercel edge configs to limit features to users before the release date.
  - Integrated smart contracts with pages.
 
+##### [VAPORDEX: Aggregator Smart Contract](https://app.vapordex.io/swap)
+ - An Aggregator Contract that routes calls to other dexes with best quotes.
+ - Adapters of other dexes for compatibility and access to liquidity of other dexes. 
+ - Integrated it with Diamond Pattern, to allow for multiple logic.
+ - CREATE3 deployment scripts, custom ABI generation scripts.
+
 ##### [Liquid Mining: $1.7M TVL All Seasons Combined](https://github.com/VaporFi/liquid-mining)
 * I contributed to this ERC-2535 implementation that has multiple facets such as Deposit, Withdraw, Claim, Boost and Unlock. Each facet has a dedicated smart contract, connected with the diamond. I authored the Claim, and Withdraw contracts(facets).
 * I also set up extensive tests in Foundry, created the diamonds, connected facets to it and made the test coverage to 90%+.
 
-##### [Liquid Mining Subgraph]([https://github.com/VaporFi/liquid-mining](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
+##### [Liquid Mining Subgraph](https://github.com/VaporFi/liquid-mining](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
 * I designed it to provide comprehensive data on the activities within the Liquid Mining smart contract ecosystem. It facilitates queries to retrieve detailed information about user interactions, seasonal data, fee collections, and mining pass purchases.
 [Deployment Here](https://thegraph.com/hosted-service/subgraph/royvardhan/genesisv4)
 
