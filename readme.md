@@ -8,7 +8,7 @@
 
 ## Work
 
-##### [VAPORDEX: $3M+ Quarterly Volume](https://app.vapordex.io/swap)
+##### [VAPORDEX](https://app.vapordex.io/swap)
  - Worked on adding new features/pages to the NEXT.JS frontend. 
  - Integrated GraphQL APIs to fetch server-side props and show them on the frontend.
  - Worked with Vercel edge configs to limit features to users before the release date.
@@ -17,7 +17,7 @@
 ##### [VAPORDEX: Aggregator Smart Contract](https://app.vapordex.io/swap)
  - An Aggregator Contract that routes calls to other dexes with best quotes.
  - Adapters of other dexes for compatibility and access to liquidity of other dexes. 
- - Integrated it with Diamond Pattern, to allow for multiple logic.
+ - Integrated it with Diamond Pattern, to allow for multiple facets.
  - CREATE3 deployment scripts, custom ABI generation scripts.
 
 ##### [Liquid Mining: $1.7M TVL All Seasons Combined](https://github.com/VaporFi/liquid-mining)
