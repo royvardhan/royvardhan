@@ -14,7 +14,7 @@
  - Worked with Vercel edge configs to limit features to users before the release date.
  - Integrated smart contracts with pages.
 
-##### [VAPORDEX: Aggregator Smart Contract](https://app.vapordex.io/swap)
+##### [VAPORDEX: Aggregator Smart Contract | $240M TVL](https://app.vapordex.io/swap)
  - An Aggregator Contract that routes calls to other dexes with best quotes.
  - Adapters of other dexes for compatibility and access to liquidity of other dexes. 
  - Integrated it with Diamond Pattern, to allow for multiple facets.
