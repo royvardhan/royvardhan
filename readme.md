@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Harsh Vardhan Roy
 #### Blockchain Developer
 
-##### Skills: Move / Solidity / JavaScript / TypeScript / React.js / Tailwind CSS / Foundry / Hardhat / Ethers.js / The Graph / Node.js / Express.js / IPFS
-
 - 🔭 Currently working in DeFi.
 - 📫 You can reach me at [royvardhan.official@gmail.com](mailto:royvardhan.official@gmail.com) or via [Twitter](https://twitter.com/thefiatbubble).
 
