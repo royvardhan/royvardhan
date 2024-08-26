@@ -58,18 +58,3 @@
 - Implemented Vercel edge configs to limit features to users before the release date.
 - Integrated smart contracts with pages.
 
-## Open Source Contributions
-
-#### [Mokshya Protocol](https://github.com/mokshyaprotocol/aptos-token-vesting/pull/4)
-#### [Move Developers Dao](https://github.com/movedevelopersdao/Aptos-Move-by-Example/pull/1)
-
-## Certifications
-
-Overmind - Won Prizes in Competitive Coding Quests for Move Language
-- Proof Of Learning (NFT) - Coming soon!
-
-Scrimba - The Frontend Developer Career Path
-- [Certificate](https://scrimba.com/certificate/uB4V7YA2/gfrontend)
-
-Ethereum Blockchain Developer Bootcamp With Solidity
-- [Certificate](https://www.udemy.com/certificate/UC-86df1665-6e81-4b04-9f6d-878b0bf0aa11/)
