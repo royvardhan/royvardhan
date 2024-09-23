@@ -6,7 +6,7 @@
 
 ## Work
 
-#### [VAPORDEX: Aggregator Smart Contract | $240M TVL](https://app.vapordex.io/swap)
+#### [VAPORDEX: Aggregator Smart Contract | ACCESS TO $240M TVL](https://app.vapordex.io/swap)
 - An Aggregator Contract that routes calls to other dexes with best quotes.
 - Adapters of other dexes for compatibility and access to liquidity of other dexes.
 - Integrated with Diamond Pattern, allowing for multiple facets.
