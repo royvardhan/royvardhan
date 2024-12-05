@@ -1,9 +1,3 @@
-### Hi there 👋, I'm Harsh Vardhan Roy
-#### Blockchain Developer
-
-- 🔭 Currently working in DeFi.
-- 📫 You can reach me at [royvardhan.official@gmail.com](mailto:royvardhan.official@gmail.com) or via [Twitter](https://twitter.com/thefiatbubble).
-
 ## Work
 
 #### [VAPORDEX: Aggregator Smart Contract | ACCESS TO $240M TVL](https://app.vapordex.io/swap)
